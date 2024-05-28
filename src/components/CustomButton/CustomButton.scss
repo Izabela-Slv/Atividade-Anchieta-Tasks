@@ -1,0 +1,12 @@
+.custom-button-container {
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(262.71deg, #da68f7 -30.04%, #ff00b3 124.74%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-button-container:hover {
+    cursor: pointer;
+}
